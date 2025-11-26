@@ -8,6 +8,23 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_wishlist">Wishlist</string>
+    <string name="menu_add">Add</string>
+
+    <string name="welcome">Welcome to StrathFurnish</string>
+    <string name="homepage_subheading">Find affordable Second hand furniture</string>
+    <string name="categories">Categories</string>
+
+    <string name="addItem">Add an Item</string>
+    <string name="addButtonText">Add Item</string>
+
+    <string name="Condition_placeholder">Condition: %s</string>
+
+    <string-array name="condition_array">
+        <item>New</item>
+        <item>Good</item>
+        <item>Fair</item>
+    </string-array>
 </resources>
